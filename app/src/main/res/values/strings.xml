@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BocetoPetFood</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="registrarse">¿No tienes una cuenta? Registrar</string>
+    <string name="repetir_contraseña">Repetir Contraseña</string>
+    <string name="Registrarse">Registrar</string>
+    <string name="agregar_foto_de_mascota">Agregar Foto de Mascota</string>
+    <string name="nombre_de_la_mascota">Nombre de la Mascota</string>
+    <string name="guardar_datos">Guardar Datos</string>
+    <string name="porci_n_de_comida">Porcion Alimento</string>
+    <string name="inicio">Inicio</string>
+    <string name="nombre_de_la_mascota_creado">Nombre de la mascota</string>
+    <string name="porci_n_de_comida_creada">Porción de comida</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cambiar_contraseña">Cambiar Contraseña</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="todo">TODO</string>
+</resources>
